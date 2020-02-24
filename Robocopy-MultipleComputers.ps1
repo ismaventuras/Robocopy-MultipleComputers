@@ -6,7 +6,7 @@ Short description
 Long description
 
 .EXAMPLE
-An example
+Robocopy-MultipleComputers -ComputerName $ComputerList -Source "C:\Temp\test" -DestinationFolder "C:\Temp\"
 
 .NOTES
 General notes
